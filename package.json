@@ -1,5 +1,5 @@
 {
-    "name": "webdriverio-tests",
+    "name": "js-gherkin-ui-test-webdriverio",
     "version": "0.1.0",
     "private": true,
     "devDependencies": {
@@ -14,6 +14,6 @@
         "wdio": "wdio run wdio.conf.js"
     },
     "dependencies": {
-        "selenium-standalone": "^9.3.0"
+        "selenium-standalone": "^8.0.0"
     }
 }
